@@ -358,6 +358,26 @@ Cannot:
 
 ---
 
+## 🔗 Live Demo
+
+You can explore the ERP system online:
+
+**Website:** [https://erp.cocomelonlearning.com/](https://erp.cocomelonlearning.com/)
+
+**Notes:**
+
+* This is a live demo of the ERP system.
+* Features visible include:
+
+  * Dashboard Overview
+  * Center & Class Management
+  * Child Master with Status Workflow
+  * Waiting List Management
+  * Monthly Reports
+  * Notifications
+---
+
+<!--
 ## 📽️ Live Demo (YouTube)
 
 🎥 **Watch Full ERP System Demo**
@@ -374,5 +394,5 @@ This demo covers:
 * Waiting List Automation
 * Notifications & Reports
 * Live Cron Automation Showcase
-
+-->
 ---
