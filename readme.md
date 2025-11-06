@@ -353,7 +353,8 @@ Cannot:
 * **Frontend:** Laravel Blade / React (based on version)
 * **Backend:** Laravel 10+
 * **Database:** MySQL
-* **Storage:** AWS S3 / Local
+* **Hosting::** Hostinger Shared Hosting (Canada Server, .ca domain)
+* **Storage::** Local (Hostinger Server)
 * **Automation:** Cron Jobs (monthly, hourly)
 
 ---
