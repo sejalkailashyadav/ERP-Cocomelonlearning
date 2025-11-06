@@ -350,8 +350,7 @@ Cannot:
 
 ## 🧠 Tech Stack (for context)
 
-* **Frontend:** Laravel Blade / React (based on version)
-* **Backend:** Laravel 10+
+* **Tech Stack:** Node.js, Express, React
 * **Database:** MySQL
 * **Hosting::** Hostinger Shared Hosting (Canada Server, .ca domain)
 * **Storage::** Local (Hostinger Server)
