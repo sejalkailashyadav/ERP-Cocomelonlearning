@@ -382,7 +382,7 @@ You can explore the ERP system online:
 
 🎥 **Watch Full ERP System Demo**
 
-> 👉 [Click here to view the live demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+>  [Click here to view the live demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 > *(Replace `YOUR_VIDEO_ID` with your actual demo video link once uploaded)*
 
