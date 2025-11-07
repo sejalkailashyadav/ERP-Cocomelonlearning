@@ -3,7 +3,7 @@
 ###  Overview
 
 This **ERP (Enterprise Resource Planning)** system is designed for managing multiple centers efficiently.
-It provides **role-based access** for Super Admins, Admins, and Managers to handle centers, employees, children, classes, fees, reports, and documentation—all from a centralized dashboard.
+It provides **role-based access** for Super Admins, Admins, and Managers to handle centers, employees, children, classes, fees, reports, and documentation—all from centralized dashboard
 
 ---
 
