@@ -1,4 +1,4 @@
-# ERP Children Management System
+# Childcare Management ERP
 
 ### Overview
 
