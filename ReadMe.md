@@ -6,7 +6,77 @@ This **ERP (Enterprise Resource Planning)** system is designed for managing mult
 It provides **role-based access** for Super Admins, Admins, and Managers to handle centers, employees, children, classes, fees, reports, and documentation—all from centralized dashboard.
 
 ---
+**My Contribution**
 
+* Designed complete ERP architecture and database structure.
+* Developed backend APIs using Node.js and Express.
+* Built role-based authentication and authorization system.
+* Implemented cron jobs for automation workflows.
+* Developed React-based admin dashboards.
+* Integrated WordPress forms with ERP using automated sync.
+* Created reporting and wage calculation modules.
+* Managed deployment on Hostinger server with MySQL database.
+
+---
+
+**Technical Features**
+
+Add a separate section:
+
+### Key Technical Features
+
+* JWT Authentication & Authorization
+* Role-Based Access Control (RBAC)
+* REST API Architecture
+* MySQL Relational Database Design
+* File Upload & Document Management
+* Cron Job Automation
+* Email Notification System
+* Dashboard Analytics & KPIs
+* Dynamic Report Generation
+* WordPress Form Integration
+* Multi-Center Management
+* Status Workflow Automation
+
+---
+
+**Database Complexity**
+
+Employers often look for this.
+
+### Database Design
+
+* 40+ relational tables
+* Foreign key relationships between Centers, Classes, Children, Employees, Reports, and Fees
+* Optimized queries for dashboard reporting
+* Automated archival and data lifecycle management
+
+---
+
+**Security Features**
+
+This is important for ERP projects.
+
+### Security
+
+* Password Hashing (bcrypt)
+* JWT Authentication
+* Role-Based Permissions
+* Protected API Routes
+* Secure Document Access
+* Audit Tracking for Critical Actions
+
+---
+
+**Project Scale**
+
+* Supports Multiple Childcare Centers
+* Manages 1000+ Children Records
+* Handles Employee & Wage Tracking
+* Generates Monthly Compliance Reports
+* Automated Notifications & Task Scheduling
+
+---
 ## Roles & Permissions
 
 ### 1. Super Admin
