@@ -407,7 +407,7 @@ Generate center-wise and month-wise wage reports for employees.
   * Select Centers
   * Hours
   * Salary
-  * Wage *(default $6)*
+  * Wage 
   * Notes
 * During report creation, employees can be excluded using checkbox selection.
 * Admin can add/edit static new employee entries in the list, and those entries apply only to that particular report.
@@ -569,7 +569,7 @@ Cannot:
 
 ## Tech Stack (for context)
 
-* **Tech Stack:** Node.js, Express, React
+* **Tech Stack:** Php(Laravel), React
 * **Database:** MySQL
 * **Hosting::** Hostinger Shared Hosting (Canada Server, .ca domain)
 * **Storage::** Local (Hostinger Server)
